@@ -26,7 +26,8 @@ section>h2 {
     width: 230px;
     text-align: center;
     font-style: Times;
-    font-size: 24px;
+    font-family:"Times New Roman",Times, Serif;
+    font-size: 26px;
     font-weight: bold;
     height: 45px;
     padding-top: 10px;
@@ -46,7 +47,7 @@ section.luzin>h2 {
 }
 
 section>p {
-    padding: 40px 15px 15px 15px;
+    padding: 40px 15px 20px 15px;
 }
 
 .row {
